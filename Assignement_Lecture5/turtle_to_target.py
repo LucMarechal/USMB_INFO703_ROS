@@ -18,7 +18,7 @@ def pose_callback(pose):
 
     x = XXXXX
     y = XXXXX
-    yaw = pose.theta
+    yaw = XXXXX
 
     # printout the x and y position of the turtle1 in the consol (just for debugg)
     XXXXXXXXXXXXXXXXX  
