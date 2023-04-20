@@ -56,7 +56,7 @@ def turtle_to_target():
         distance = XXXXX     # Computes the Euclidean distance between current pose and the target
 	    
 	# printout the distance in the consol (just for debugg)	
-	rospy.loginfo("distance = %f\n",distance)
+	rospy.loginfo(XXXXXXXXXXXXXXXXX)
 
         linear_speed = XXXXX  # computes the velocity of the proportional controller
 
