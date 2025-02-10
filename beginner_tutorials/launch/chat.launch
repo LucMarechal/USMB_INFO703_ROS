@@ -1,7 +1,0 @@
-<launch>
-
-<node name="First_Publisher_Node" pkg="beginner_tutorials" type="First_Publisher_Node.py"/>
-
-<node name="First_Subscriber_Node" pkg="beginner_tutorials" type="First_Subscriber_Node.py" output="screen"/>
-
-</launch>
