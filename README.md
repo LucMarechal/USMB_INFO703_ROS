@@ -21,19 +21,19 @@ This "ROS (Robot Operating System)" training will allow participants to know how
 
 **Assesment**
 At the end of this lecture, you are excepted to :
-🟢 Be able to create a variable in your Linux environment.
-🟢 Be able to create a Catkin workspace.
-🟢 Be able to create a ROS package.
-🟢 Be able to make executable and launch any node.
-🟠 Be able to create a launch file to launch multiple nodes at once.
-🟠 Be able to use ROS command line tools to get information on nodes, topics and message type
-🟠 Be able to know what a ROS message is made up of.
-🟠 Be able to find which library a ROS message comes from.
-🔵 Be able to code a publisher node.
-🔵 Be able to code a subscriber node.
-🔵 Be able to use messages with an Object in Python code.
-🟣 Be able to code and use a callback function.
-🟣 Be able to control a mobile robot: in simulation with Turtlesim
+🟢 Be able to create a variable in your Linux environment.<br/>
+🟢 Be able to create a Catkin workspace.<br/>
+🟢 Be able to create a ROS package.<br/>
+🟢 Be able to make executable and launch any node.<br/>
+🟠 Be able to create a launch file to launch multiple nodes at once.<br/>
+🟠 Be able to use ROS command line tools to get information on nodes, topics and message type.<br/>
+🟠 Be able to know what a ROS message is made up of.<br/>
+🟠 Be able to find which library a ROS message comes from.<br/>
+🔵 Be able to code a publisher node.<br/>
+🔵 Be able to code a subscriber node.<br/>
+🔵 Be able to use messages with an Object in Python code.<br/>
+🟣 Be able to code and use a callback function.<br/>
+🟣 Be able to control a mobile robot: in simulation with Turtlesim.<br/>
 
 **Grade**
 🟢 5%        🟠15%         🔵40%        🟣40%  
