@@ -10,14 +10,14 @@ This "ROS (Robot Operating System)" training will allow participants to know how
 - Understand the ROS architecture and acquire the necessary skills to design robotic applications
 - Install AND parameterize ROS
 - Learn how to program a robot
-
-    ROS architecture: Master, nodes, topics, messages, services, parameters and actions
-    Creating ROS packages: Structure, launch-​files
-    ROS Python client library (rospy): Creating your own ROS Python programs
-    Working with visualizations (RViz) and user interface tools (rqt)
-    Control a mobile robot: in simulation with Turtlesim, in real life with TurtleBot3 Burger
-    Vision: interfacing OpenCV with ROS
-
+<ul>
+    <li>ROS architecture: Master, nodes, topics, messages, services, parameters and actions</li>
+    <li>Creating ROS packages: Structure, launch-​files</li>
+    <li>ROS Python client library (rospy): Creating your own ROS Python programs</li>
+    <li>Working with visualizations (RViz) and user interface tools (rqt)</li>
+    <li>Control a mobile robot: in simulation with Turtlesim, in real life with TurtleBot3 Burger</li>
+    <li>Vision: interfacing OpenCV with ROS
+</ul> 
 
 **Assesment**
 At the end of this lecture, you are excepted to :
